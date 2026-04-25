@@ -2,7 +2,7 @@
 
 ### About me 😼
 - 🏫 **IB Student**  |  High School Sophomore (Class of 2028)
-- 💻 **Robotics Programmer**  |  Specilized in C++ for FRC
+- 💻 **Robotics Programmer**  |  Specilized in C++ for FRC (a little java and python)
 - 📍 **Based in Louisiana**
 
 
