@@ -12,9 +12,11 @@
 
 - **FRC Scouting App:** Building a cross-platform offline data collection tool for robotics competitions.
 
+-  **Louisiana Clinic Finder** An app to help people in louisiana to find where they should go for their problems
+
 
 - ### 🧠 Skills
-- **Language:** C++, Markdown
+- **Language:** C++, Markdown, Dart/Flutter, Python
 - **Interests:** Control Theory (PID/Feedforward), Embedded Systems, Computer Vision
 
 ---
